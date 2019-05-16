@@ -1,0 +1,16 @@
+H1 {
+    background:black;
+    color:white;
+    margin:0px 0px 5px 0px;
+    font-size:24px;
+    padding:4px 1px 10px 2px;
+    text-align:center;
+}
+
+body {
+    font-family:verdana,helvetica,arial,sans-serif;
+    border:0px; margin:0px; padding:0px;
+
+    background:url("https://pa1.narvii.com/6965/58a65527e1d187502c77dfe1033b72929568581dr1-320-325_128.gif"
+    ) repeat;
+
